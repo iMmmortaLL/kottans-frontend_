@@ -3,8 +3,8 @@
 # Stage 0.
 ---
 0. [x] [Git та GitHub](#git-basics)
-1.  [Linux CLI and Networking](#linux-cli-and-http)
-2.  [GitHub and Collaboration](#git-collaboration)
+1. [ ] [Linux CLI and Networking](#linux-cli-and-http)
+2. [ ] [GitHub and Collaboration](#git-collaboration)
 
 
 ---
