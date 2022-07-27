@@ -18,10 +18,8 @@
   <img src = "./images/Git Basics/GIT3.png">
   <img src = "./images/Git Basics/GIT4.png">
 </details>
-
-
-
+---
 
 ## Linux CLI, and HTTP
 
----
+
