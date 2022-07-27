@@ -13,7 +13,7 @@
 
 <details>
   <summary>Srcreenshots</summary>
-  <img src = "./images/Git Basics/GIT1">
+  <img src = "./images/Git Basics/GIT1.png">
 </details>
 
 
