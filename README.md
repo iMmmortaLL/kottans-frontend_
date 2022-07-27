@@ -14,6 +14,9 @@
 <details>
   <summary>Srcreenshots</summary>
   <img src = "./images/Git Basics/GIT1.png">
+  <img src = "./images/Git Basics/GIT2.png">
+  <img src = "./images/Git Basics/GIT3.png">
+  <img src = "./images/Git Basics/GIT4.png">
 </details>
 
 
