@@ -3,8 +3,8 @@
 ##### Stage 0.
 
 ---
-0 - [х] - [Git Basics](#git-basics)
-1 - [x] - [Linux CLI and Networking](#linux-cli-and-http)
+0 - [x] - [Git Basics](#git-basics)
+1 - [x]- [Linux CLI and Networking](#linux-cli-and-http)
 
 
 
