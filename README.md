@@ -2,6 +2,9 @@
 # Kottans-frontend
 
 # Stage 0.
+
+
+## General
 ---
 0. [x] [Git та GitHub](#git-basics)
 
@@ -9,8 +12,8 @@
 
 2. [ ] [GitHub and Collaboration](#git-collaboration)
 
-
 ---
+
 
 
 ## GitHub 
