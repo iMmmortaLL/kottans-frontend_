@@ -1,4 +1,3 @@
-# kottans-frontend_
 
 # Kottans-frontend
 
