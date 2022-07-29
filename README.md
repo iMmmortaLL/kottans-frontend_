@@ -4,7 +4,11 @@
 # Stage 0.
 ---
 0. [x] [Git та GitHub](#git-basics)
+
 1. [x] [Linux CLI and Networking](#linux-cli-and-http)
+
+1. [ ] [Linux CLI and Networking](#linux-cli-and-http)
+
 2. [ ] [GitHub and Collaboration](#git-collaboration)
 
 
@@ -19,16 +23,24 @@
 
 <details>
   <summary>Srcreenshots</summary>
+
   <img src = "./images/Git_Basics/GIT1.png">
   <img src = "./images/Git_Basics/GIT2.png">
   <img src = "./images/Git_Basics/GIT3.png">
   <img src = "./images/Git_Basics/GIT4.png">
+
+  <img src = "./images/Git Basics/GIT1.png">
+  <img src = "./images/Git Basics/GIT2.png">
+  <img src = "./images/Git Basics/GIT3.png">
+  <img src = "./images/Git Basics/GIT4.png">
+
   
 </details>
 
 ---
 
 ## Linux CLI, and HTTP
+
 В першу чергу хочу сказати що я не користувався ОС linux взагалі ніколи, але ця ОС мене зацікавила своїм функціоналом зокрема видалення друку (lprm) також df, aux та grep, також прочитав про протокол HTTP та HTTPS  багато корисної інформації яку не одразу запамятовуєш але основні моменти про передачу данних, по якому технічному протоколу вони передаються які є коди, заголовки повідомлень при роботі на Node.js або Ruby on Rails там був також якийсь спосіб забув(, а так в загальному для розуміння того як працює інтернет досить корисні статті 
 
 ### Сюди я кинув короткий звіт про зроблену роботу
@@ -49,3 +61,4 @@
 
 
 ## Git Collaboration
+
