@@ -13,6 +13,16 @@
 2. [ ] [GitHub and Collaboration](#git-collaboration)
 
 ---
+## Front-End Basics
+
+3. [ ] Intro to HTML & CSS
+4. [ ] Responsive Web Design
+5. [ ] HTML & CSS Practice
+6. [ ] JavaScript Basics
+7. [ ] Document Object Model - practice
+
+---
+
 
 
 
