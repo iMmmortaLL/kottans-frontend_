@@ -12,6 +12,7 @@
 
 2. [x] [GitHub and Collaboration](#git-collaboration)
 
+
 ---
 ## Front-End Basics
 
@@ -84,5 +85,22 @@
   <img src = "./images/Git_Basics/GIT2.png">
   <img src = "./task_git_collaboration/1.jpg">
   <img src = "./task_git_collaboration/2.jpg">
+</details>
+
+---
+
+## Intro to HTML and CSS
+
+Основи HTML та  CSS я знаю досить давно але було не погано освіжити ці знання та нагадати собі як що і де працює, також як стилізувати блоки і т.д якщо говорити коротко то якщо б я був новачком то частина з 1 та 2 неділею курсу та закріпивши практичну частину на codecademy то було б у мене був дуже хороший багаж знань)
+
+
+### Сюди я кинув короткий звіт про зроблену роботу
+
+
+<details>
+  <summary>Srcreenshots</summary>
+  <img src = "./task_html_css_intro/picture1.jpg">
+  <img src = "./task_html_css_intro/picture2.jpg">
+  <img src = "./task_html_css_intro/picture3.jpg">
 </details>
 
