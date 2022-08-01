@@ -16,7 +16,7 @@
 ---
 ## Front-End Basics
 
-3. [x] [Intro to HTML & CSS](#intro-to-html-css)
+3. [x] [Intro to HTML & CSS](#intro_html)
 4. [ ] Responsive Web Design
 5. [ ] HTML & CSS Practice
 6. [ ] JavaScript Basics
