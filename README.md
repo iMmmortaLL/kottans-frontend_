@@ -1,5 +1,5 @@
 
-# Kottans-frontend (^:^)
+# Kottans-frontend (^.^)
 
 # Stage 0.
 
