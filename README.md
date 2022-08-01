@@ -10,7 +10,7 @@
 
 1. [x] [Linux CLI and Networking](#linux-cli-and-http)
 
-2. [ ] [GitHub and Collaboration](#git-collaboration)
+2. [x] [GitHub and Collaboration](#git-collaboration)
 
 ---
 ## Front-End Basics
